@@ -1,0 +1,12 @@
+.text-bold {
+    font-weight: bold;
+    color: rgba(52, 49, 76, 0.54);
+}
+
+.pl {
+    padding-left: 5%;
+}
+
+.pr {
+    padding-right: 5%;
+}
